@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaAudio", "MetaAudio.csproj", "{6AEB8279-CBF1-4E2E-8354-5EB4CD3D3D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaManager", "..\MetaManager\MetaManager.csproj", "{4D564EB7-E700-4135-8C87-2AF5490794F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AEB8279-CBF1-4E2E-8354-5EB4CD3D3D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEB8279-CBF1-4E2E-8354-5EB4CD3D3D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEB8279-CBF1-4E2E-8354-5EB4CD3D3D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEB8279-CBF1-4E2E-8354-5EB4CD3D3D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D564EB7-E700-4135-8C87-2AF5490794F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D564EB7-E700-4135-8C87-2AF5490794F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D564EB7-E700-4135-8C87-2AF5490794F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D564EB7-E700-4135-8C87-2AF5490794F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCB6C7E8-459C-4155-818A-F37995C6E88C}
+	EndGlobalSection
+EndGlobal

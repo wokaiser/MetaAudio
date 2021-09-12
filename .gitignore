@@ -3,3 +3,6 @@
 ################################################################################
 
 /MetaManager/obj
+/.vs
+/MetaAudio/.vs/MetaAudio/v16
+/MetaAudio/obj/Debug
